@@ -1,6 +1,6 @@
 {
-  "name": "responsive-containers",
-  "filename": "responsive-containers.min.js",
+  "name": "selector-queries",
+  "filename": "selector-queries.min.js",
   "author": "ahume",
   "version": "0.1.0",
   "description": "Media query alternative to be used on single elements rather than the viewport.",
@@ -12,4 +12,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/ahume/selector-queries.git"
+}, 
 }
